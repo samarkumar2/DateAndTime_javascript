@@ -1,0 +1,16 @@
+.container{
+    height: 300px;
+    width: 300px;
+    background-color: olivedrab;
+    margin: auto;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: larger;
+    text-align: center;
+    margin-top: 40px;
+}
+h2{
+    padding-left: 40px;
+}
